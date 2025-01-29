@@ -1,4 +1,4 @@
-# Solara Executor
+# Solara-Executor
 # ✨ **Solara Executor - Ultimate Roblox Script Executor** [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](../../releases)
 
 ## 🛠️ Quick Setup Guide
